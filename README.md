@@ -1,6 +1,8 @@
 # FrogsApp
 An app with information about frogs! Works on ios and android. A react native app.
 
+<img src='https://github.com/LuciaWyn/FrogsApp/blob/main/Screenshot_20220716-122950.png' />
+
 # To Run
 
 Install node dependencies:
